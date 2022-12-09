@@ -1,5 +1,7 @@
 # happy-inc
 
+ [Demo](https://nkozlovskaya.github.io/happy-inc/).
+
 Тестовое задание
 Необходимо сверстать блок по макету.
 
